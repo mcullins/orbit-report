@@ -1,0 +1,32 @@
+.sortable {
+    cursor: pointer;
+    color: #dd5;
+}
+
+.warning {
+    background-color: #fc4e4e;
+}
+
+table {
+  color: #111;
+  border-radius: 5px;
+  overflow: hidden;
+  margin: 12px 0;
+  min-width: 300px;
+  background: #91bdb7;
+}
+
+.header-row {
+    background: rgb(56, 141, 98);
+    color: #fff
+}
+
+th, td {
+    text-align: left;
+    margin: 5px 10px;
+    padding: 6px;
+}
+
+.container{
+    font-family: 'Oswald', sans-serif;
+}
