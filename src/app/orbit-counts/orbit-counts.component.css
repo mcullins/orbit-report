@@ -1,0 +1,17 @@
+.counts {
+    background: #91bdb7;
+    color: black;
+    border-radius: 5px;
+    width: 225px;
+}
+
+.counts div {
+    padding: 8px;
+}
+
+.counts span {
+    float: right;
+}
+  .container{
+      font-family: 'Oswald', sans-serif;
+  }

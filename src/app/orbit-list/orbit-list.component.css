@@ -30,3 +30,7 @@ th, td {
 .container{
     font-family: 'Oswald', sans-serif;
 }
+
+.odd{
+    background-color: grey;
+}
