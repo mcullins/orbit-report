@@ -7,11 +7,6 @@ import { Satellite } from './satellite';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-<<<<<<< HEAD
-  title = 'orbit-report';
-
-    
-=======
   title = 'Orbit Report';
   sourceList: Satellite[];
 
@@ -30,5 +25,4 @@ export class AppComponent {
  
  
   }
->>>>>>> 1f0a569ab43532d92b0062198d8e9b1a82c3f27f
 }
